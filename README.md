@@ -5,6 +5,7 @@
      <h4>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h4>
 </div>
      <h3 align="center">Software</h3>
+     <h4>3dsMax/Maya/ZBrush/RizomUV/SubstancePainter/MarmosetToolbag/VRay/MarvelousDesigner/Ps/Unity/JIRA/Perforce/Hackplan/Git/Miro</h4>
      <h3 align="center">Connect</h3>
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/tukhvatshyna">
