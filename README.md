@@ -4,6 +4,7 @@
      <h4>Main areas of my work are Gamdev and Animation Industries.</h4>
      <h4>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h4>
 </div>
+     <h3 align="center">Software</h3>
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/tukhvatshyna">
      <img src="https://img.shields.io/badge/Linkedin-1769ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,4 +19,3 @@
      <img src="https://img.shields.io/badge/Telegram-1769ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
-     <h3 align="center">Software</h3>
