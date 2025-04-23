@@ -5,9 +5,9 @@
      <h5>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h5>
 </div>
 <div id="header" align="center">
-<a href="https://www.linkedin.com/in/tukhvatshyna">
+<h8><a href="https://www.linkedin.com/in/tukhvatshyna">
      <img src="http://img.shilds.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+</a></h8>
 <a href="https://www.artstation.com/tukhvatshyna">
      <img src="http://img.shilds.io/badge/Artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation"/>
 </a>
