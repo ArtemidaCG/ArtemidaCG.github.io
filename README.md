@@ -2,7 +2,7 @@
      <h1>Hi there, I'm Artemida</h1>
      <h3>3D Character Artist</h3>
      <h4>Main areas of my work are Gamdev and Animation Industries.</h4>
-     <h5>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h5>
+     <h4>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h4>
 </div>
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/tukhvatshyna">
