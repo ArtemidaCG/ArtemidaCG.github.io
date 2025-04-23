@@ -19,5 +19,5 @@
 </a>
 </div>
 <div id="header" align="center">
-<h3 align="left">Software:</h3>
+     <h3 align="center">Software</h3>
 </div>
