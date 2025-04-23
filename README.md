@@ -4,7 +4,7 @@
 </div>
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/tukhvatshyna">
-      <img src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/Icons/LinkedIn_logo_initials.png" alt="LinkedIn"/>
+      <img src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/Icons/LinkedIn_logo_initials.png?raw=true" alt="LinkedIn"/>
 </a>
 <a href="https://www.artstation.com/tukhvatshyna">
      <img src="http://img.shilds.io/badge/Artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation"/>
