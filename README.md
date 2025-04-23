@@ -12,7 +12,7 @@
      <img src="http://img.shilds.io/badge/Artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation"/>
 </a>
 <a href="https://www.behance.net/tukhvatshyna">
-     <img src="http://img.shilds.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
 </a>
 <a href="https://t.me/ARTEMIDA_CG">
      <img src="http://img.shilds.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
