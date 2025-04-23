@@ -6,7 +6,7 @@
 </div>
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/tukhvatshyna">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+     <img src="https://img.shields.io/badge/Linkedin-1769ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.artstation.com/tukhvatshyna">
      <img src="https://img.shields.io/badge/Artstation-1769ff?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation"/>
