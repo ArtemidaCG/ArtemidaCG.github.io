@@ -5,6 +5,7 @@
      <h4>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h4>
 </div>
      <h3 align="center">Software</h3>
+     <div id="header" align="center">
      <p float="left">
      <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/3ds_Max_23640.webp" width="5%">
      <img alt="autodesk-maya-logo-png_seeklogo-308077.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/autodesk-maya-logo-png_seeklogo-308077.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
@@ -16,7 +17,8 @@
      <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/allegorithmic-substance-painter-crack-serial-key.webp" width="5%">
      <img alt="1614765621_toolbag.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/1614765621_toolbag.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      <img alt="Adobe_Photoshop_CC_icon.svg.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/Adobe_Photoshop_CC_icon.svg.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
-     </p>  
+     </p>
+     </div>
      <h3 align="center">Connect</h3>  
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/tukhvatshyna">
