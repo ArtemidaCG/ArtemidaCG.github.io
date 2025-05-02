@@ -5,8 +5,19 @@
      <h4>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h4>
 </div>
      <h3 align="center">Software</h3>
-     <h4>3dsMax/Maya/ZBrush/RizomUV/SubstancePainter/MarmosetToolbag/VRay/MarvelousDesigner/Ps/Unity/JIRA/Perforce/Hackplan/Git/Miro</h4>
+     <p float="left">
+     <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/3ds_Max_23640.webp">
+     <img alt="autodesk-maya-logo-png_seeklogo-308077.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/autodesk-maya-logo-png_seeklogo-308077.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+     <img alt="b6b3f9d82f50b5554239b0a316f31d3a.jpg" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/b6b3f9d82f50b5554239b0a316f31d3a.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+     <img alt="images (6).jpg" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/images%20(6).jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+     <img alt="images (1).png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/images%20(1).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+     <img alt="unity-logo-png_seeklogo-274050 (1).png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/unity-logo-png_seeklogo-274050%20(1).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+     <img alt="v-ray-logo-png_seeklogo-334100.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/v-ray-logo-png_seeklogo-334100.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+     <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/allegorithmic-substance-painter-crack-serial-key.webp">
+     <img alt="1614765621_toolbag.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/1614765621_toolbag.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+     <img alt="Adobe_Photoshop_CC_icon.svg.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/Adobe_Photoshop_CC_icon.svg.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
      <h3 align="center">Connect</h3>
+     </p>    
 <div id="header" align="center">
 <a href="https://www.linkedin.com/in/tukhvatshyna">
      <img src="https://img.shields.io/badge/Linkedin-1769ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
