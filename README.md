@@ -27,7 +27,6 @@
      </p>
      <img alt="github-logo-git-hub-icon-on-white-background-free-vector.jpg" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/github-logo-git-hub-icon-on-white-background-free-vector.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/hacknplan.webp" width="10%">
-     
      </div>
      <h3 align="center">Connect</h3>  
 <div id="header" align="center">
