@@ -14,7 +14,7 @@
      <img alt="images (1).png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/images%20(1).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      <img alt="unity-logo-png_seeklogo-274050 (1).png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/unity-logo-png_seeklogo-274050%20(1).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      <img alt="v-ray-logo-png_seeklogo-334100.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/v-ray-logo-png_seeklogo-334100.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
-     <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/allegorithmic-substance-painter-crack-serial-key.webp" width="5%">
+     <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/allegorithmic-substance-painter-crack-serial-key.webp" width="6%">
      <img alt="1614765621_toolbag.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/1614765621_toolbag.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      <img alt="Adobe_Photoshop_CC_icon.svg.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/Adobe_Photoshop_CC_icon.svg.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      </p>
