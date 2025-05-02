@@ -24,9 +24,9 @@
      <img src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/8a974de9ed9d2aad6feb9e0f74aeafe980143d41/ICONs_/jira-logo-svg-vector.svg" width="15%">
      <img alt="29477654.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/29477654.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      <img alt="png-transparent-miro-app-logo-tech-companies-thumbnail.png" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/png-transparent-miro-app-logo-tech-companies-thumbnail.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
-     </p>
      <img alt="github-logo-git-hub-icon-on-white-background-free-vector.jpg" src="https://github.com/ArtemidaCG/ArtemidaCG.github.io/blob/main/ICONs_/github-logo-git-hub-icon-on-white-background-free-vector.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm" width="5%">
      <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ArtemidaCG/ArtemidaCG.github.io/refs/heads/main/ICONs_/hacknplan.webp" width="10%">
+     </p>
      </div>
      <h3 align="center">Connect</h3>  
 <div id="header" align="center">
