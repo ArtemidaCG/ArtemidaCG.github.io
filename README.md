@@ -34,7 +34,7 @@
      <img src="https://img.shields.io/badge/Linkedin-1769ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.artstation.com/tukhvatshyna">
-     <img src="https://img.shields.io/badge/Artstation-#ee3810style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation"/>
+     <img src="https://img.shields.io/badge/Artstation-1769ff?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation"/>
 </a>
 <a href="https://www.behance.net/tukhvatshyna">
      <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
