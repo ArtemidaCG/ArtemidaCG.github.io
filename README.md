@@ -2,7 +2,7 @@
      <h1>Hi there, I'm Artemida</h1>
      <h3>-3D CHARACTER ARTIST-</h3>
      Main areas of my work are Gamdev and Animation Industries.
-     PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing
+     <h4>PIPELINE: Sculpting/Modeling/Topology/UV workflow/Texturing</h4>
 </div>
      <h3 align="center">Software</h3>
 <div id="header" align="center">
